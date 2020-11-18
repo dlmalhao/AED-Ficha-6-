@@ -1,4 +1,4 @@
-#Juntar duas listas ordenadas e mantelas ordenadas
+#Juntar duas listas ordenadas e mantêlas ordenadas
 
 n = int(input("\n\n\t\tIndique a quantidade de elementos da lista 1: "))
 n2 = int(input("\n\n\t\tIndique a quantidade de elementos da lista 2: "))
